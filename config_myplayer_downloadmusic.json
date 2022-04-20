@@ -1,0 +1,16 @@
+{
+  "youtube_type_4_min_version_code": 0,
+  "youtube_type_4_max_version_code": 1,
+  "youtube_type_3_min_version_code": 0,
+  "youtube_type_3_max_version_code": 0,
+  "youtube_type_2_min_version_code": 0,
+  "youtube_type_2_max_version_code": 2000,
+  "youtube_type_1_min_version_code": 0,
+  "youtube_type_1_max_version_code": 0,
+  "require_update": true,
+  "max_version_code_require_update": 1,
+  "open_feature_download_music_min_version_code": 0,
+  "open_feature_download_music_max_version_code": 1000,
+  "min_time_use_open_feature_download": 5,
+  "min_time_install_open_feature_download": 72
+}
