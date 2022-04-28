@@ -8,6 +8,7 @@
   "youtube_type_1_min_version_code": 0,
   "youtube_type_1_max_version_code": 0,
   "require_update": true,
+  "music_type":0,
   "max_version_code_require_update": 1,
   "open_feature_download_music_min_version_code": 0,
   "open_feature_download_music_max_version_code": 1000,
